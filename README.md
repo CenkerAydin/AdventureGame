@@ -55,7 +55,7 @@ Attribute: War + Loot
 Item: Water (Water)
 
 
-Shopping centre
+SHOPPING CENTRE
 
 Feature : Buying Supporting Items
 
