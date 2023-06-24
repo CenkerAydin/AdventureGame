@@ -27,26 +27,36 @@ Armor
 Places
 
 SAFE HOUSE
+
 Feature : Renewing Life
 
 CAVE
 
 Monster: Zombie (1-3 Pieces)
+
 Attribute: War + Loot
+
 Item : Food
 
 FOREST
+
 Monster: Vampire (1-3 Pieces)
+
 Attribute: War + Loot
+
 Item: Wood (Firewood)
 
 RIVER
+
 Monster : Bear (1-3 Pieces)
+
 Attribute: War + Loot
+
 Item: Water (Water)
 
 
 Shopping centre
+
 Feature : Buying Supporting Items
 
 Weapons: Pistol, Sword, Rifle
